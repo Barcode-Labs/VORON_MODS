@@ -18,7 +18,8 @@ SLICER SETTINGS
 --------------------------------------------------------------------------------
 DISCLAIMER
 --------------------------------------------------------------------------------
-This is currently untested.  I am still waiting for parts to test the fit and function of this part.
+Make at your own risk.
+Worked for me, may or may-not work for you.
 
 --------------------------------------------------------------------------------
 CREDIT WHERE CREDIT IS DUE
